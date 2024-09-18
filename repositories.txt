@@ -1,0 +1,82 @@
+[
+  {
+    "title": "microsoft / playwright",
+    "url": "https://github.com/microsoft/playwright"
+  },
+  {
+    "title": "checkly / headless-recorder",
+    "url": "https://github.com/checkly/headless-recorder"
+  },
+  {
+    "title": "apify / crawlee",
+    "url": "https://github.com/apify/crawlee"
+  },
+  {
+    "title": "microsoft / playwright-python",
+    "url": "https://github.com/microsoft/playwright-python"
+  },
+  {
+    "title": "browserless / browserless",
+    "url": "https://github.com/browserless/browserless"
+  },
+  {
+    "title": "artilleryio / artillery",
+    "url": "https://github.com/artilleryio"
+  },
+  {
+    "title": "Skyvern-AI / skyvern",
+    "url": "https://github.com/Skyvern-AI"
+  },
+  {
+    "title": "codeceptjs / CodeceptJS",
+    "url": "https://github.com/codeceptjs"
+  },
+  {
+    "title": "apify / crawlee-python",
+    "url": "https://github.com/apify"
+  },
+  {
+    "title": "qawolf / qawolf",
+    "url": "https://github.com/qawolf"
+  },
+  {
+    "title": "microsoft / dotnet-podcasts",
+    "url": "https://github.com/microsoft"
+  },
+  {
+    "title": "microsoft / playwright-dotnet",
+    "url": "https://github.com/microsoft/playwright-dotnet"
+  },
+  {
+    "title": "vogler / free-games-claimer",
+    "url": "https://github.com/vogler"
+  },
+  {
+    "title": "mishushakov / llm-scraper",
+    "url": "https://github.com/mishushakov"
+  },
+  {
+    "title": "playwright-community / playwright-go",
+    "url": "https://github.com/playwright-community/playwright-go"
+  },
+  {
+    "title": "simonw / shot-scraper",
+    "url": "https://github.com/simonw/shot-scraper"
+  },
+  {
+    "title": "TheWebScrapingClub / webscraping-from-0-to-hero",
+    "url": "https://github.com/TheWebScrapingClub"
+  },
+  {
+    "title": "QIN2DIM / hcaptcha-challenger",
+    "url": "https://github.com/QIN2DIM/hcaptcha-challenger"
+  },
+  {
+    "title": "ocsjs / ocsjs",
+    "url": "https://github.com/ocsjs/ocsjs"
+  },
+  {
+    "title": "reworkd / tarsier",
+    "url": "https://github.com/reworkd"
+  }
+]
